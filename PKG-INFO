@@ -1,0 +1,28 @@
+Metadata-Version: 1.0
+Name: vmo_feedback
+Version: 1.0
+Summary: Oscillatory Interference Model with Sensory Feedback
+Home-page: http://jdmonaco.com/vmo-feedback/
+Author: Joe Monaco
+Author-email: jmonaco@jhu.edu
+License: The MIT License
+Description: Many animals use a form of dead reckoning known as 'path integration' to
+        maintain a sense of their location as they explore the world. However, internal
+        motion signals and the neural activity that integrates them can be noisy,
+        leading inevitably to inaccurate position estimates. The rat hippocampus and
+        entorhinal cortex support a flexible system of spatial representation that is
+        critical to spatial learning and memory. The position signal encoded by this
+        system is thought to rely on path integration, but it must be recalibrated by
+        familiar landmarks to maintain accuracy. To explore the interaction between
+        path integration and external landmarks, we present a model of hippocampal
+        activity based on the interference of theta-frequency oscillations that are
+        modulated by realistic animal movements around a track. We show that spatial
+        activity degrades with noise, but introducing external cues based on direct
+        sensory feedback can prevent this degradation. When these cues are put into
+        conflict with each other, their interaction produces a diverse array of
+        response changes that resembles experimental observations. Feedback driven by
+        attending to landmarks may be critical to navigation and spatial memory in
+        mammals. 
+Platform: Mac OSX
+Platform: Linux
+Platform: Windows
